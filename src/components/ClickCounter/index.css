@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.count-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 150px;
+}
+.heading {
+  color: #2d3a35;
+  font-size: 38px;
+  font-family: 'Roboto';
+}
+.spanItem {
+  color: #c20a72;
+  font-size: 38px;
+  font-family: 'Roboto';
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 4px;
+  border: none;
+  width: 120px;
+  height: 24px;
+}
